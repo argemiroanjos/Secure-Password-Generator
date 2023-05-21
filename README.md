@@ -33,7 +33,6 @@ Você pode personalizar as configurações do gerador de senhas no arquivo `src/
 ## Demonstração
 
 ![Demonstração](demo/demo_gerador_senhas_seguras.png)
-
 *Captura de tela do Gerador de Senhas Seguras em ação*
 
 ## Pré-requisitos
